@@ -1,0 +1,10 @@
+D:\Programming_Training\arduino_training\Arduino_turret\bin\Debug\Arduino_turret.exe.config
+D:\Programming_Training\arduino_training\Arduino_turret\bin\Debug\Arduino_turret.exe
+D:\Programming_Training\arduino_training\Arduino_turret\bin\Debug\Arduino_turret.pdb
+D:\Programming_Training\arduino_training\Arduino_turret\obj\Debug\Arduino_turret.csproj.AssemblyReference.cache
+D:\Programming_Training\arduino_training\Arduino_turret\obj\Debug\Arduino_turret.Form1.resources
+D:\Programming_Training\arduino_training\Arduino_turret\obj\Debug\Arduino_turret.Properties.Resources.resources
+D:\Programming_Training\arduino_training\Arduino_turret\obj\Debug\Arduino_turret.csproj.GenerateResource.cache
+D:\Programming_Training\arduino_training\Arduino_turret\obj\Debug\Arduino_turret.csproj.CoreCompileInputs.cache
+D:\Programming_Training\arduino_training\Arduino_turret\obj\Debug\Arduino_turret.exe
+D:\Programming_Training\arduino_training\Arduino_turret\obj\Debug\Arduino_turret.pdb
